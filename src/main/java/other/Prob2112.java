@@ -1,3 +1,5 @@
+package other;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -17,7 +19,7 @@ import java.util.StringTokenizer;
  * 
  * 풀이: 완전탐색
  */
-public class Solution {
+public class Prob2112 {
 	
 	static int d, w, k;
 	static int[] film;
